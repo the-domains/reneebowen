@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: collection of some of my recent favorites from the class of 2016
-datePublished: '2015-12-30T19:59:30.211Z'
-dateModified: '2015-12-30T19:59:00.694Z'
+datePublished: '2015-12-30T20:02:58.689Z'
+dateModified: '2015-12-30T20:02:53.844Z'
 title: Senior Pics
 author: []
 authors: []
